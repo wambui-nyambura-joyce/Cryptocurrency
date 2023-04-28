@@ -92,8 +92,43 @@ display: flex;
     color: white;
 }
 .body4{
-    margin-left: 200px;
+    margin-left: 140px;
+    background: rgb(6,6,15);
+background: linear-gradient(90deg, rgba(6,6,15,1) 0%, rgba(40,40,59,1) 35%, rgb(77, 43, 156) 100%);
+
+
+}
+.table1{
+    width: 90%;
+    margin-top: 1%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    margin-left: 2%;
+    /* background: radial-gradient( #000124, #1A1A1A); */
+    /* border-radius: 11px; */
+    /* box-shadow: 0 10px 30px rgb(0, 0, 0,0.5); */
+    margin-bottom: 20%;
 }
 .row1{
-    word-spacing: 70px;
+    padding: 16px 24px;
+    text-align: left;
+    color: #D6D6D6;
+    font-weight: 600;
+    
+}
+#btn3{
+    background-color: rgb(236, 48, 111);
+    border-radius: 18px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+}
+#btn4{
+    border-radius: 18px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(14, 13, 13);
+    
 }
